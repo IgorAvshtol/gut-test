@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_coordinate_coordinates",
+  "info": {
+    "displayName": "coordinate",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "valueX": {
+      "type": "float"
+    },
+    "valueY": {
+      "type": "float"
+    }
+  }
+}

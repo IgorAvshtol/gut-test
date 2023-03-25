@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "plots",
+  "info": {
+    "singularName": "plot",
+    "pluralName": "plots",
+    "displayName": "Plots",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Coordinate": {
+      "displayName": "coordinate",
+      "type": "component",
+      "repeatable": true,
+      "component": "coordinate.coordinate"
+    }
+  }
+}
